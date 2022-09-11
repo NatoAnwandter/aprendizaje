@@ -1,0 +1,4 @@
+#rutas a ignorar  pormi repositorio
+
+.env
+node_modules/
